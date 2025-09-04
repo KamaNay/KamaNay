@@ -6,7 +6,7 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamaNay&show_icons=true&theme=dracula)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamaNay&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamaNay&layout=compact&theme=dracula)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
