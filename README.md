@@ -1,7 +1,7 @@
 ## Olá! Eu sou o André Noronha👋
 
 - 💻 Atualmente curso Ciência da Computação na UTFPR
-- 🔎 Buscando oportunidades de estágio na área
+- 🔎 Buscando oportunidades na área de ciência de dados
 - 📫 Email para contato: andrenoronha34@gmail.com
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamaNay&show_icons=true&theme=dracula)
