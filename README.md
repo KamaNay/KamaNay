@@ -8,6 +8,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamaNay&layout=compact&theme=dracula&cache_seconds=1800)
 
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KamaNay&theme=dracula)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
