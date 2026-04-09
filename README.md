@@ -4,9 +4,9 @@
 - 🔎 Buscando oportunidades na área de ciência de dados
 - 📫 Email para contato: andrenoronha34@gmail.com
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamaNay&show_icons=true&theme=dracula)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamaNay&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamaNay&show_icons=true&theme=dracula&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamaNay&layout=compact&theme=dracula&cache_seconds=1800)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
