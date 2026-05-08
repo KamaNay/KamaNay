@@ -29,33 +29,37 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/KamaNay/KamaNay/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/KamaNay/KamaNay/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-rfzt.vercel.app/api?username=KamaNay&show_icons=true&theme=dracula" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats-rfzt.vercel.app/api/top-langs/?username=KamaNay&layout=compact&theme=dracula&langs_count=8" height="200" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/KamaNay/KamaNay/snake-output/snake.svg" alt="Snake animation" />
-
-###
 
 <h2 align="left">Social Media</h2>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/andre-nsmm" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:andrenoronha34@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/noronha_salles/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/kamanay" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
+<table align="left">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/andre-nsmm" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:andrenoronha34@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/noronha_salles/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://discord.com/users/kamanay" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="40" alt="discord logo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
