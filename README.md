@@ -29,8 +29,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats-rfzt.vercel.app/api?username=KamaNay&show_icons=true&theme=dracula" height="190" alt="stats graph"  />
-  <img src="https://github-readme-stats-rfzt.vercel.app/api/top-langs/?username=KamaNay&layout=compact&theme=dracula&langs_count=8" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats-ten-delta-18.vercel.app/api?username=KamaNay&show_icons=true&theme=dracula" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats-ten-delta-18.vercel.app/api/top-langs/?username=KamaNay&layout=compact&theme=dracula&langs_count=8" height="200" alt="languages graph"  />
 </div>
 
 <h2 align="left">Social Media</h2>
