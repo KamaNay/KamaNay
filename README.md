@@ -43,8 +43,6 @@
   <img src="https://github-readme-stats-ten-delta-18.vercel.app/api/top-langs/?username=KamaNay&layout=compact&theme=dracula&langs_count=8" height="200" alt="languages graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/KamaNay/KamaNay/snake-output/snake.svg" alt="Snake animation" />
-
 <h2 align="left">Social Media</h2>
 
 ###
