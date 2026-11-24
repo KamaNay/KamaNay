@@ -62,27 +62,6 @@ Estou buscando minha **primeira posição em Ciência de Dados**. Gosto de levar
   <img src="https://github-readme-stats-delta-eight-77.vercel.app/api/top-langs/?username=KamaNay&layout=compact&theme=dracula&langs_count=8" height="200" alt="languages graph"  />
 </div>
 
-<h2 align="left">Social Media</h2>
-
-###
-
-<table align="left">
-  <tr>
-    <td>
-      <a href="https://www.instagram.com/noronha_salles/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo" />
-      </a>
-    </td>
-    <td>
-      <a href="https://discord.com/users/kamanay" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="40" alt="discord logo" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-###
-
 <h2 align="left">Contato</h2>
 
 ###
@@ -97,6 +76,27 @@ Estou buscando minha **primeira posição em Ciência de Dados**. Gosto de levar
     <td>
       <a href="mailto:andrenoronha34@gmail.com" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<table align="left">
+  <tr>
+    <td>
+      <a href="https://www.instagram.com/noronha_salles/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo" />
+      </a>
+    </td>
+    <td>
+      <a href="https://discord.com/users/kamanay" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="40" alt="discord logo" />
       </a>
     </td>
   </tr>
