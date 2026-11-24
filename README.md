@@ -1,8 +1,19 @@
 ## Olá! Eu sou o André Noronha👋
 
-- 💻 Atualmente curso Ciência da Computação na UTFPR
-- 🔎 Buscando oportunidades na área de ciência de dados
-- 📫 Email para contato: andrenoronha34@gmail.com
+Cursando Ciência da Computação na UTFPR (formatura em dez/2026) e trabalhando como **Engenheiro de Software** (backend e integrações de dados) na Animo Creative.
+Estou buscando minha **primeira posição em Ciência de Dados**. Gosto de levar o modelo até o fim: dado → modelo validado → API ou dashboard que alguém usa.
+
+- 📫 [andrenoronha34@gmail.com](mailto:andrenoronha34@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/andre-nsmm)
+
+## Projetos
+
+| Projeto | O que faz | Resultado | Stack |
+|---|---|---|---|
+| [**Torre de Controle Logístico**](https://github.com/KamaNay/Previsao-de-Demanda-e-Logistica) | Prevê atrasos de entrega no Olist antes do despacho e entrega um dashboard executivo | ROC-AUC 0,74 e PR-AUC 0,19 (2,8x o acaso), com probabilidades calibradas | Python, scikit-learn, Power BI |
+| [**API de Previsão de Demanda**](https://github.com/KamaNay/API-de-Previsao-de-Demanda-de-Estoque) | Modelo de demanda diária servido por API serverless, com histórico e previsões em PostgreSQL | MAE 5,95 contra 9,08 do baseline (−34,5%) | XGBoost, FastAPI, AWS Lambda, Supabase |
+| [**E-commerce Data Pipeline**](https://github.com/KamaNay/E-commerce_Data_Pipeline) | Modelagem relacional, geração de dados sintéticos e análise de vendas | Pipeline completo, do ORM à análise | SQLAlchemy 2.0, MySQL, Pandas |
+| [**Teste A/B de Checkout**](https://github.com/KamaNay/Teste_AB_Conversao) | Teste de hipótese para decidir se um botão de compra em 1 clique vale o investimento | p = 0,052, então a recomendação é não lançar ainda | statsmodels, Pandas |
+| [**ETL com PySpark (NYC Taxi)**](https://github.com/KamaNay/BigDataAnalytics_AND_ETL-Mobilidade_Urbana-NYC_Taxi) | ETL em camadas raw → processed (Parquet) e análise com Spark SQL | 7,1 milhões de corridas processadas | PySpark, Parquet |
   
 <h2 align="left">Techs</h2>
 
@@ -38,6 +49,10 @@
 
 ###
 
+<sub>Também no dia a dia: scikit-learn · XGBoost · Power BI/DAX · PySpark · Supabase · Jupyter</sub>
+
+###
+
 <h2 align="left">Stats</h2>
 
 ###
@@ -54,16 +69,6 @@
 <table align="left">
   <tr>
     <td>
-      <a href="https://www.linkedin.com/in/andre-nsmm" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo" />
-      </a>
-    </td>
-    <td>
-      <a href="mailto:andrenoronha34@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo" />
-      </a>
-    </td>
-    <td>
       <a href="https://www.instagram.com/noronha_salles/" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo" />
       </a>
@@ -77,3 +82,22 @@
 </table>
 
 ###
+
+<h2 align="left">Contato</h2>
+
+###
+
+<table align="left">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/andre-nsmm" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo" />
+      </a>
+    </td>
+    <td>
+      <a href="mailto:andrenoronha34@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo" />
+      </a>
+    </td>
+  </tr>
+</table>
